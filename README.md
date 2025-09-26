@@ -18,3 +18,5 @@ Case com clientes rfv baixo(inativo):
 
 Case com clientes mais preocupantes/prioritários rfv alto(ativo):
 <img width="1044" height="612" alt="Captura de tela 2025-09-25 211513" src="https://github.com/user-attachments/assets/0d988083-b29c-4a09-8dee-91c463e20263" />
+
+Portanto, clientes com um RFV altos são os mais atrativos, devendo ser alvos de fidelização, benefícios exclusivos e um contato personalizado.
