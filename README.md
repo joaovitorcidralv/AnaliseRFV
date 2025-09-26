@@ -1,6 +1,6 @@
 # AnaliseRFV
 
-Projeto envolvendo uma analise de recência, frequência e valor sobre dados de compra. Planilha abaixo apresenta os dados brutos semtratamento
+Projeto envolvendo uma analise de recência, frequência e valor sobre dados de compra.
 <img width="537" height="706" alt="image" src="https://github.com/user-attachments/assets/5ec8368b-24bf-46c0-8379-d79c60092f8b" />
 
 Para começar, substitui a data por uma coluna chamada "Dias Última compra" equivalente a data atual menos a ultima registrada
@@ -9,3 +9,12 @@ Para começar, substitui a data por uma coluna chamada "Dias Última compra" equ
 Após isso, algumas definições de intervalos para classificar cada cliente aplicando-se a quantidade de pedidos por clientes e o ticket médio de cada um.
 
 <img width="1618" height="455" alt="base rfv01" src="https://github.com/user-attachments/assets/9386a2f3-9892-420f-8e83-e73604e4c62c" />
+
+
+Case com clientes saudáveis abaixo:
+<img width="1059" height="689" alt="Captura de tela 2025-09-25 211434" src="https://github.com/user-attachments/assets/87c0d8cd-8cbe-4e35-8b66-e36805fc9f9d" />
+
+
+
+Case com clientes mais preocupantes:
+<img width="1044" height="612" alt="Captura de tela 2025-09-25 211513" src="https://github.com/user-attachments/assets/0d988083-b29c-4a09-8dee-91c463e20263" />
